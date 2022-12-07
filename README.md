@@ -1,2 +1,6 @@
 # CountUsingDictionary
-Count elements uaing dictionary in python
+-------------------------
+Count elements using dictionary in python
+-------------------------------------------
+
+
